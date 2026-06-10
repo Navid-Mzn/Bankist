@@ -1,14 +1,14 @@
-# Bankist 
+# Bankist
 
 A modern banking application built with JavaScript.
 
-##  About the Project
+## About the Project
 
 Bankist is a simple banking application developed as part of Jonas Schmedtmann's JavaScript course. The app simulates common banking operations such as logging in, transferring money, requesting loans, and closing accounts.
 
 The project focuses on JavaScript fundamentals, array methods, DOM manipulation, and application state management.
 
-##  Features
+## Features
 
 - User authentication (login system)
 - View account balance
@@ -19,13 +19,13 @@ The project focuses on JavaScript fundamentals, array methods, DOM manipulation,
 - Automatic logout timer
 - Sort transactions
 
-##  Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript (ES6+)
 
-##  What I Learned
+## What I Learned
 
 - Working with arrays and array methods
   - map()
@@ -40,11 +40,11 @@ The project focuses on JavaScript fundamentals, array methods, DOM manipulation,
 - Managing application state
 - Writing cleaner and more maintainable JavaScript code
 
-##  Live Demo
+## Live Demo
 
-Try the game here:
+Try the game here: https://navid-mzn.github.io/Bankist/
 
-##  Screenshot
+## Screenshot
 
 ![Bankist Screenshot](screenshot.png)
 
