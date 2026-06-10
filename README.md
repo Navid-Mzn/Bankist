@@ -46,7 +46,7 @@ Try the game here: https://navid-mzn.github.io/Bankist/
 
 ## Screenshot
 
-![Bankist Screenshot](screenshot.png)
+![Bankist](screenshot.png)
 
 ## Course
 
